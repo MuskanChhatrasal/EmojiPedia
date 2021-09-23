@@ -275,6 +275,16 @@ export default function App() {
           </span>
         );
       })}
+      <section class="footer">
+        <p>Muskan Chhatrasal</p>
+        <ul>
+          <li><a href="https://github.com/MuskanChhatrasal" alt="#"><i class="fab fa-github">&nbsp;Github</i></a></li>
+          <li><a href="https://www.linkedin.com/in/muskan-chhatrasal/" alt="#"><i class="fab fa-linkedin">&nbsp;LinkedIn</i></a>
+          </li>
+          <li><a href="https://twitter.com/MuskanChhatras1" alt="#"><i class="fab fa-twitter">&nbsp;Twitter</i></a>
+          </li>
+        </ul>
+      </section>
     </div>
   );
 }
